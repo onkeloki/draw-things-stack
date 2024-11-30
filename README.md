@@ -15,6 +15,7 @@ Make sure that you have draw things running and api enabled on port 7860
 ````
 git clone https://github.com/onkeloki/draw-things-stack.git
 cd draw-things-stack
+npm install
 `````
 
 ## Run
